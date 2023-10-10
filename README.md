@@ -46,6 +46,6 @@ There is no time limit for this test but we would like to know how much time you
 
 ## Contact
 
-If you have any issues or questions send us an email at: vgosse@regate.io (Victor) or lvezien@regate.io (Loëck)
+If you have any issues or questions send us an email at: vgosse@regate.io (Victor)
 
 Good luck !
