@@ -17,6 +17,9 @@ Here is an example of the result https://frontend-tech-interview.dev.regate.io/
 
 You will NOT be tested on the design part, so keep it simple and pleasant for you.
 
+Your code doesn't have to be perfect. We are not excepting from you to spend 10h on the project. Just focus on doing a solid foundation.
+For example, if you add tests, you can do 1 really good test and during the interview, you'll elaborate on how you would have done the missing ones.
+
 ## Requirements
 
 - Node.js v18.x (https://nodejs.org/en/)
@@ -35,6 +38,8 @@ For libraries:
 - CSS-in-JS library (Styled Components, Emotion, Panda, etc...)
 - React Hooks library for data fetching (React Query, SWR, etc...)
 - Spring physics animation library (Framer Motion, React Spring, etc...)
+
+If you want to add more libraries because it makes sense for you, of course feel free to do it.
 
 ## Submission
 
